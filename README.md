@@ -34,7 +34,7 @@
     <img align="center" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30" width="40">
   </a>
   <a href="https://www.linkedin.com/in/piyush-singh-7579aa315/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
   <a href="mailto:2k24.cs1l.2411373@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40">
